@@ -1,0 +1,1 @@
+export {default as TempChart} from "./ui/TempChart"
